@@ -87,6 +87,8 @@ struct DiscoverView: View {
                     viewModel.searchText = ""
                     viewModel.clearAllFilters()
                 }
+                
+                
                 .padding(.top, 20)
             }
         }
